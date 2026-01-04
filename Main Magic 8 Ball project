@@ -12,3 +12,5 @@ if answer == 2:
     print("No") 
 if answer == 3:
     print("Maybe")
+
+#This was my second ever project, consolidating learning from the fortune cookie project
